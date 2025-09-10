@@ -1,0 +1,17 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\bin\Debug\net8.0-windows\hollowword.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\bin\Debug\net8.0-windows\hollowword.deps.json
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\bin\Debug\net8.0-windows\hollowword.runtimeconfig.json
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\bin\Debug\net8.0-windows\hollowword.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\bin\Debug\net8.0-windows\hollowword.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\obj\Debug\net8.0-windows\hollowword.Form1.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\obj\Debug\net8.0-windows\hollowword.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\obj\Debug\net8.0-windows\hollowword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\obj\Debug\net8.0-windows\hollowword.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\obj\Debug\net8.0-windows\hollowword.AssemblyInfo.cs
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\obj\Debug\net8.0-windows\hollowword.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\obj\Debug\net8.0-windows\hollowword.sourcelink.json
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\obj\Debug\net8.0-windows\hollowword.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\obj\Debug\net8.0-windows\refint\hollowword.dll
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\obj\Debug\net8.0-windows\hollowword.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\obj\Debug\net8.0-windows\hollowword.genruntimeconfig.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_09_10\Hollowword\hollowword\obj\Debug\net8.0-windows\ref\hollowword.dll
