@@ -1,10 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\m303\\source\\repos\\WindowsFormsApp2\\",
+  "WorkspaceRootPath": "C:\\Users\\m303\\Documents\\GitHub\\114_1_C_Sharp\\09_17\\WindowsFormsApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F444F9AB-6B21-4B60-BF39-3E926C054E5D}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\m303\\source\\repos\\windowsformsapp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F444F9AB-6B21-4B60-BF39-3E926C054E5D}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F444F9AB-6B21-4B60-BF39-3E926C054E5D}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\m303\\documents\\github\\114_1_c_sharp\\form100 0924.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F444F9AB-6B21-4B60-BF39-3E926C054E5D}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\m303\\documents\\github\\114_1_c_sharp\\form100 0924.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +16,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Users\\m303\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
-              "ToolTip": "C:\\Users\\m303\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [\u8A2D\u8A08]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T04:52:03.341Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form100 0924.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Documents\\GitHub\\114_1_C_Sharp\\Form100 0924.cs",
+              "RelativeDocumentMoniker": "..\\..\\Form100 0924.cs",
+              "ToolTip": "C:\\Users\\m303\\Documents\\GitHub\\114_1_C_Sharp\\Form100 0924.cs",
+              "RelativeToolTip": "..\\..\\Form100 0924.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T04:52:36.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form100 0924.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\m303\\Documents\\GitHub\\114_1_C_Sharp\\Form100 0924.cs",
+              "RelativeDocumentMoniker": "..\\..\\Form100 0924.cs",
+              "ToolTip": "C:\\Users\\m303\\Documents\\GitHub\\114_1_C_Sharp\\Form100 0924.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\Form100 0924.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T04:52:03.341Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
             }
           ]
         }

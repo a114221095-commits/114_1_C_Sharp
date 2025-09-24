@@ -26,5 +26,20 @@ namespace WindowsFormsApp2
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            translationLable.Text = "bueons dias";
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            translationLable.Text = "buogiorno";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            translationLable.Text = "guten morgen";
+        }
     }
 }
