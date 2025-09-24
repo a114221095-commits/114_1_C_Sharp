@@ -1,0 +1,8 @@
+C:\Users\m303\Desktop\ConsoleApp1_0924\ConsoleApp1_0924\bin\Debug\ConsoleApp1_0924.exe.config
+C:\Users\m303\Desktop\ConsoleApp1_0924\ConsoleApp1_0924\bin\Debug\ConsoleApp1_0924.exe
+C:\Users\m303\Desktop\ConsoleApp1_0924\ConsoleApp1_0924\bin\Debug\ConsoleApp1_0924.pdb
+C:\Users\m303\Desktop\ConsoleApp1_0924\ConsoleApp1_0924\obj\Debug\ConsoleApp1_0924.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\ConsoleApp1_0924\ConsoleApp1_0924\obj\Debug\ConsoleApp1_0924.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\ConsoleApp1_0924\ConsoleApp1_0924\obj\Debug\ConsoleApp1_0924.exe
+C:\Users\m303\Desktop\ConsoleApp1_0924\ConsoleApp1_0924\obj\Debug\ConsoleApp1_0924.pdb
+C:\Users\m303\Desktop\ConsoleApp1_0924\ConsoleApp1_0924\obj\Debug\ConsoleApp1_0924.exe.config
