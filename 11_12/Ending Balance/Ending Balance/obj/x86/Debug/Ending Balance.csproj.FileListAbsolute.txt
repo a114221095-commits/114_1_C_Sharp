@@ -40,3 +40,14 @@ C:\Users\m303\Desktop\114_1_C_Sharp_Tutorial-main\Chapter 05\Tutorial 5-2\Ending
 C:\Users\m303\Desktop\114_1_C_Sharp_Tutorial-main\Chapter 05\Tutorial 5-2\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csproj.CoreCompileInputs.cache
 C:\Users\m303\Desktop\114_1_C_Sharp_Tutorial-main\Chapter 05\Tutorial 5-2\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.exe
 C:\Users\m303\Desktop\114_1_C_Sharp_Tutorial-main\Chapter 05\Tutorial 5-2\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\11_12\Ending Balance\Ending Balance\bin\Debug\Ending Balance.exe.config
+C:\Users\m303\Desktop\114_1_C_Sharp\11_12\Ending Balance\Ending Balance\bin\Debug\Ending Balance.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\11_12\Ending Balance\Ending Balance\bin\Debug\Ending Balance.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\11_12\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\11_12\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.exe.config
+C:\Users\m303\Desktop\114_1_C_Sharp\11_12\Ending Balance\Ending Balance\obj\x86\Debug\Ending_Balance.Form1.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\11_12\Ending Balance\Ending Balance\obj\x86\Debug\Ending_Balance.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\11_12\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\11_12\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\11_12\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\11_12\Ending Balance\Ending Balance\obj\x86\Debug\Ending Balance.pdb
