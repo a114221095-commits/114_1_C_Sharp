@@ -39,14 +39,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
@@ -56,8 +48,7 @@
               "RelativeToolTip": "Friend File\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:43:45.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T06:43:45.098Z"
             },
             {
               "$type": "Document",
@@ -68,8 +59,7 @@
               "ToolTip": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\11_19\\Tutorial 5-4\\Friend File\\Friend File\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "Friend File\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:43:39.342Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "WhenOpened": "2024-11-26T06:43:39.342Z"
             }
           ]
         }
